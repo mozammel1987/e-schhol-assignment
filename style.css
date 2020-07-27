@@ -1,0 +1,108 @@
+
+/*nav margin*/
+
+.active{
+    margin:5px 20px;
+}
+
+/*Small-question*/
+
+.question{
+    color: red;
+}
+
+/*schedule-color*/
+.schedule-color{
+    color:rgb(5, 160, 88);
+}
+
+/*first-background-color-top banner padding*/
+ 
+.group{
+    padding: 10px 40px;
+    background-color:#F0FFF0;
+}
+.top-banner{
+    padding: 30px 30px;
+
+}
+
+/*section-gap*/
+section{
+    margin-bottom: 100px;
+}
+
+
+/*button-design*/
+
+.btn-round{
+    border: none;
+    border-radius: 20px;
+    padding: 10px 25px;
+    color:white;
+    background-color:#21B573;
+}
+
+/*card-design-&-Hover-Design*/
+.card, .col{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    margin: 20px 20px;
+}
+
+.col:hover, .card:hover{
+    box-shadow: 20px 20px 15px dimgrey;
+    transition: 0.2s;
+}
+.btn-round:hover{
+
+    background-color:cyan;
+    transition: 0.2s;
+   
+
+}
+.card-text{
+    color: black !important;
+}
+
+.icon{
+
+    margin-top: 15px;
+    margin-left: 4px;
+    margin-right: 55px;
+
+}
+
+/*centerise-content-&-Colum*/
+
+
+.centerise{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.col{
+    text-align: center;
+}
+
+
+/*last section*/
+.last-section{
+    
+    background-color: black;
+   margin-bottom: 0 !important;
+}
+p{
+    color: white;
+}
+.link{
+    padding: 60px;
+}
+
+/*footer-design*/
+footer{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
